@@ -1,4 +1,5 @@
 1187021
 # Menu 
-- [Panino Primavera](./primavera.md)
-- [Panino Vegetariano](./vegetariano.md)
+## Panini
+- [Panino Primavera](./panini/primavera.md)
+- [Panino Vegetariano](./panini/vegetariano.md)
